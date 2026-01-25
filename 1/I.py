@@ -1,0 +1,9 @@
+a = 10
+b = 15
+
+print(a , b)
+
+a,b = b,a #swapping of a number 
+
+
+print(a , b)
