@@ -1,5 +1,5 @@
 # Creating tuples for two members
-member1 = ("Rihaan", 20, "Hyderabad", "IIT Hyderabad")
+member1 = ("Rihaan", 20, "Hyderabad", "GVPCE")
 member2 = ("Ayaan", 21, "Mumbai", "BITS Pilani")
 
 # Display the tuples
